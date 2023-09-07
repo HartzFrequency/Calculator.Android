@@ -1,5 +1,3 @@
-Creating a README file for your GitHub repository "https://github.com/HartzFrequency/Calculator.Android" with images from the "README_res" directory:
-
 # Calculator.Android
 
 ![Calculator Logo](https://github.com/HartzFrequency/Calculator.Android/raw/main/README_res/calculator_logo.png)
