@@ -1,6 +1,6 @@
 # Calculator.Android
 
-![Calculator Logo](https://github.com/HartzFrequency/Calculator.Android/raw/main/README_res/calculator_logo.png)
+![Calculator Logo](https://github.com/HartzFrequency/Calculator.Android/blob/master/README_Res/UI%20Android.png)
 
 This is a simple calculator app for Android.
 
