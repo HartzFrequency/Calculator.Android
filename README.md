@@ -1,6 +1,6 @@
 # Calculator.Android
 
-![Calculator Logo](https://github.com/HartzFrequency/Calculator.Android/blob/master/README_Res/UI%20Android.png)
+<img src="https://github.com/HartzFrequency/Calculator.Android/blob/master/README_Res/UI%20Android.png" alt="Screenshot 2" width="250" />
 
 This is a simple calculator app for Android.
 
@@ -12,7 +12,7 @@ This is a simple calculator app for Android.
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/HartzFrequency/Calculator.Android/blob/master/README_Res/Operation.png" alt="Screenshot 1" width="250" />
+  <img src="https://github.com/HartzFrequency/Calculator.Android/blob/master/README_Res/Operation.png" alt="Screenshot 1" width="220" />
   <img src="https://github.com/HartzFrequency/Calculator.Android/blob/master/README_Res/Operation%20Result.png" alt="Screenshot 2" width="250" />
 </div>
 
