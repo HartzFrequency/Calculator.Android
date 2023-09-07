@@ -107,9 +107,6 @@ class MainActivity : AppCompatActivity() {
                     tvInput?.text = removeZeroAfterDot(result.toString())
                 }
 
-
-
-
             }catch (e:ArithmeticException){
                 e.printStackTrace()
             }
