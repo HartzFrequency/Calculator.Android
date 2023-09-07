@@ -11,8 +11,8 @@ This is a simple calculator app for Android. <br/>
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/HartzFrequency/Calculator.Android/blob/master/README_Res/Operation.png" alt="Screenshot 1" width="240" />
-  <img src="https://github.com/HartzFrequency/Calculator.Android/blob/master/README_Res/Operation%20Result.png" alt="Screenshot 2" width="250" />
+  <img src="https://github.com/HartzFrequency/Calculator.Android/blob/master/README_Res/Operation.png" alt="Screenshot 1" width="140" />
+  <img src="https://github.com/HartzFrequency/Calculator.Android/blob/master/README_Res/Operation%20Result.png" alt="Screenshot 2" width="150" />
 </div>
 
 ## Getting Started
