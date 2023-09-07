@@ -12,7 +12,7 @@ This is a simple calculator app for Android.
 ## Screenshots
 
 <img src="https://github.com/HartzFrequency/Calculator.Android/blob/master/README_Res/Operation.png" alt="Screenshot 1" width="300" />
-![Screenshot 2](https://github.com/HartzFrequency/Calculator.Android/blob/master/README_Res/Operation%20Result.png)
+<img src="https://github.com/HartzFrequency/Calculator.Android/blob/master/README_Res/Operation%20Result.png" alt="Screenshot 2" width="300" />
 
 ## Getting Started
 
