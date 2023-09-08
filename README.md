@@ -1,5 +1,5 @@
 # Calculator.Android
-This is a simple calculator app for Android. <br/>
+This application represents a streamlined calculator solution optimized for the Android platform. <br/>
 <img src="https://github.com/HartzFrequency/Calculator.Android/blob/master/README_Res/UI%20Android.png" alt="Screenshot 2" width="100" />
 
 
